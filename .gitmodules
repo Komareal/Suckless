@@ -4,3 +4,9 @@
 [submodule "st"]
 	path = st
 	url = git@github.com:Komareal/Suckless-St.git
+[submodule "slock"]
+	path = slock
+	url = git@github.com:Komareal/Suckless-Slock.git
+[submodule "wmname"]
+	path = wmname
+	url = https://git.suckless.org/wmname
