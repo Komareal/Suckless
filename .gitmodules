@@ -10,3 +10,6 @@
 [submodule "wmname"]
 	path = wmname
 	url = https://git.suckless.org/wmname
+[submodule "dwmblocks-async"]
+	path = dwmblocks-async
+	url = git@github.com:Komareal/Suckless-dwmblocks-async.git
